@@ -1,0 +1,13 @@
+{
+  "browserify": {
+    "dist/browserified.js": "browserify.js"
+  },
+  "dependencies": {
+    "js": [
+      "allex:imageregistry:lib",
+      "allex:jobondestroyable:lib",
+      "node_modules/jszip/dist/jszip.js",
+      "node_modules/jszip-utils/dist/jszip-utils.js"
+    ]
+  }
+}

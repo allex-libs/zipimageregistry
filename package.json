@@ -1,0 +1,26 @@
+{
+  "name": "allex_zipimageregistrylib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with the ZipImageRegistry, a specialization of allex_imageregistrylib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/zipimageregistry.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "zip",
+    "image",
+    "registry",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/zipimageregistry/issues"
+  },
+  "homepage": "https://github.com/allex-libs/zipimageregistry#readme"
+}
